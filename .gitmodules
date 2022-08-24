@@ -1,0 +1,9 @@
+[submodule "ThisPC/Windows-SSD(C:)/GitProjects/KyraEllen/Matching/Assets"]
+	path = ThisPC/Windows-SSD(C:)/GitProjects/KyraEllen/Matching/Assets
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "This PC/Windows-SSD(C:)/GitProjects/Kyra Ellen/Matching/Assets"]
+	path = This PC/Windows-SSD(C:)/GitProjects/Kyra Ellen/Matching/Assets
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "Matching/Assets/Tools"]
+	path = Matching/Assets/Tools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
