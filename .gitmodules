@@ -1,3 +1,6 @@
 [submodule "Matching/Assets/Script"]
 	path = Matching/Assets/Script
 	url = https://github.com/KyraEllen/Final-Projects/tree/main/Assets/Scripts
+[submodule "Matching/Assets/Tools"]
+	path = Matching/Assets/Tools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools.git
